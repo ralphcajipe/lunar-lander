@@ -16,11 +16,7 @@ The code for this project is implemented in Python, using the OpenAI Gym's Lunar
 
 At the end of the code, you'll find a video of the Lunar Lander in action. You can see for yourself whether the agent has learned to successfully land on the moon's surface!
 
-Here is a clip of the Lunar Lander in action: <br>
-<video width="320" height="240" controls>
-    <source src="videos/lunar_lander.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+Here is a [clip](videos/lunar_lander.mp4) of the Lunar Lander in action.
 
 ## How to Run the Code
 
